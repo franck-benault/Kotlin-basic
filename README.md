@@ -43,6 +43,9 @@ two main target platforms
 * server side
 * Android
 
+## IDE
+It is possible to use Eclipse with a Kotlin plugin, but I advice you to use Intellij IDEA.
+
 ## Kotlin primary traits
 
 ### Statically typed
