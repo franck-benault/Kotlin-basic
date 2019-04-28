@@ -58,11 +58,6 @@ no more semi column needed anymore (except enum)
 ### No checked exception
 In Kotlin there is no differences between checked and unchecked exceptions.
 
-## Coroutines
-coroutine starting
-* async { ... } return something
-* launch { ... } fire and forget
-
 # Resources 
 ## Form Jetbrain
 * https://play.kotlinlang.org/ 
