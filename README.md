@@ -76,3 +76,12 @@ https://www.class-central.com/course/udacity-kotlin-for-android-developers-9699
 ### Coursera
 https://www.coursera.org/learn/kotlin-for-java-developers
 
+# Examples
+## 00 HelloWorld
+## 02 data class
+auto generated methods
+* toString
+* equals and hashCode
+* componentN
+* copy
+
