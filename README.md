@@ -78,6 +78,10 @@ https://www.coursera.org/learn/kotlin-for-java-developers
 
 # Examples
 ## 00 HelloWorld
+## 01 Kotlin basic
+### mutable and immutable variables
+* val (from value) immutable reference
+* var (from variable) mutable reference
 ## 02 data class
 auto generated methods
 * toString
