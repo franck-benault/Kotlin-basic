@@ -44,7 +44,9 @@ two main target platforms
 * Android
 
 ## IDE
-It is possible to use Eclipse with a Kotlin plugin, but I advice you to use Intellij IDEA.
+* online sandbox https://play.kotlinlang.org/ for simple tests
+* Eclipse
+* Intellij IDEA (best solution)
 
 ## Kotlin primary traits
 
