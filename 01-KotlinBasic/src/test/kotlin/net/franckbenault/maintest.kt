@@ -14,4 +14,9 @@ class MainKotlinTest {
     fun testMax2() {
         assertEquals(max2(56, 9), 56)
     }
+
+    @Test
+    fun testLangages() {
+        assertEquals(getLanguages().size  , 3)
+    }
 }
