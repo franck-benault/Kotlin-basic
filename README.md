@@ -91,10 +91,13 @@ simple example which print a message to the console
 ### mutable and immutable variables
 * val (from value) immutable reference
 * var (from variable) mutable reference
-## 02 data class
+## 02 Data class
 auto generated methods
 * toString
 * equals and hashCode
 * componentN
 * copy
+
+## 03 basic test with Kotlin
+Kotlin loves JUnit5 (not Junit4 !)
 
