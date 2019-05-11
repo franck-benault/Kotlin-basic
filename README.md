@@ -79,6 +79,11 @@ https://www.class-central.com/course/udacity-kotlin-for-android-developers-9699
 ### Coursera
 https://www.coursera.org/learn/kotlin-for-java-developers
 
+## Kotlin conf
+You can see the video of the two first Kotlin conference (2017 and 2018):
+* https://kotlinconf.com/2017/
+* https://kotlinconf.com/2018/
+
 # Examples
 ## 00 HelloWorld
 ## 01 Kotlin basic
