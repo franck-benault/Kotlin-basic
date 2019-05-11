@@ -86,6 +86,7 @@ You can see the video of the two first Kotlin conference (2017 and 2018):
 
 # Examples
 ## 00 HelloWorld
+simple example which print a message to the console
 ## 01 Kotlin basic
 ### mutable and immutable variables
 * val (from value) immutable reference
