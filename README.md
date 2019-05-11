@@ -65,7 +65,7 @@ no more semi column needed anymore (except enum)
 In Kotlin there is no differences between checked and unchecked exceptions.
 
 # Resources 
-## Form Jetbrain
+## From Jetbrain
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
 
