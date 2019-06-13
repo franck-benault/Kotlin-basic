@@ -19,6 +19,7 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 
 |         |     |                                      |
 | ------- | --- | ------------------------------------ | 
+| 06/2019 | 40e | 0,237%                               |
 | 05/2019 | 39e | 0,305%                               |
 | 04/2019	| 35e | 0,337%                               | 
 | 03/2019	| 39e | 0,288%                               |
