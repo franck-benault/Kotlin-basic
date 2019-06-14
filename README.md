@@ -45,7 +45,7 @@ http://pypl.github.io/PYPL.html
 
 https://www.benfrederickson.com/ranking-programming-languages-by-github-users/
 
-Kotlin =15e 	1,28%
+Kotlin =15e 	1,28% (juin 2019)
 
 Kotlin is among 'language to learn' in 2018.
 
