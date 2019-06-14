@@ -35,9 +35,10 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 *PYPL*
 This index is based on search done on Google related to the tuturial
 http://pypl.github.io/PYPL.html
-|         |     |                                      |
-| ------- | --- | ------------------------------------ | 
-| 06/2019 | 13e | 1,4%                               |
+
+|         |     |        |
+| ------- | --- | ------ | 
+| 06/2019 | 13e | 1,4%   |
 
 
 *Github*
