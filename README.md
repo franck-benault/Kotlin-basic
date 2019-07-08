@@ -37,15 +37,17 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 This index is based on search done on Google related to the tuturial
 http://pypl.github.io/PYPL.html
 
-| World   |     |        |
-| ------- | --- | ------ | 
-| 06/2019 | 13e | 1,4%   |
+| World   | rank |        |
+| ------- | ---- | ------ | 
+| 07/2019 | 14   | 1,41%  |
+| 06/2019 | 13   | 1,4%   |
 
 With this index it is possible to filter per country. For France we have https://pypl.github.io/PYPL.html?country=FR
 
-| France  |     |        |
-| ------- | --- | ------ | 
-| 06/2019 | 11e | 2,28%  |
+| France  | rank |        |
+| ------- | ---- | ------ | 
+| 07/2019 | 14   | 2,31%  |
+| 06/2019 | 11   | 2,28%  |
 
 
 *Github*
